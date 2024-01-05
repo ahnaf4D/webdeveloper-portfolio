@@ -1,3 +1,12 @@
 body {
     font-family: 'Open Sans', sans-serif;
 }
+
+.nav-title {
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800;
+}
+.orange-color{
+    color: #FD6E0A;
+}
