@@ -1,0 +1,22 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#1E1E1E"/>
+<g id="Frame 1" clip-path="url(#clip0_22_299)">
+<rect width="1600" height="4256" transform="translate(-247 -610)" fill="white"/>
+<rect id="Rectangle 2" x="-247" y="-610" width="1600" height="837" fill="#FFF8F3"/>
+<g id="Group 11">
+<g id="Group 10">
+<rect id="Rectangle 1" x="-17" y="-21" width="200" height="64" rx="5" fill="#FD6E0A"/>
+<g id="Group 7">
+<g id="Frame">
+<path id="Vector" d="M3 16.5V18.75C3 19.3467 3.23705 19.919 3.65901 20.341C4.08097 20.7629 4.65326 21 5.25 21H18.75C19.3467 21 19.919 20.7629 20.341 20.341C20.7629 19.919 21 19.3467 21 18.75V16.5M16.5 12L12 16.5M12 16.5L7.5 12M12 16.5V3" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_22_299">
+<rect width="1600" height="4256" fill="white" transform="translate(-247 -610)"/>
+</clipPath>
+</defs>
+</svg>
