@@ -1,0 +1,26 @@
+@media (max-width: 884px) {
+    .container {
+        margin-top: 10px;
+        flex-direction: column;
+    }
+
+    .hero-text {
+        width: 100%;
+        text-align: center;
+    }
+
+    .hero-text h1 {
+        font-size: 3rem;
+    }
+}
+
+@media (max-width: 678px) {
+    .hero-text h1 {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 428px) {
+    nav ul {
+        display: none;
+    }
