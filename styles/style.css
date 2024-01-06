@@ -179,3 +179,46 @@ nav ul a {
     font-weight: 400;
     line-height: 28px;
 }
+
+#resume_section {
+    text-align: center;
+    margin-top: 200px;
+}
+.info_education>h1,
+.info_experience>h1 {
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: left;
+    
+}
+
+#experience_container {
+    display: flex;
+    gap: 40px;
+    justify-content: space-around;
+    text-align: left;
+}
+
+.degree,
+.responsibilities {
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.institute,
+.companyName {
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.experience_description,
+.degree_description {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    /* 175% */
+}
